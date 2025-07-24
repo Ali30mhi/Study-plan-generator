@@ -1,0 +1,1082 @@
+### Study Plan ###
+
+Date: 2025-01-12
+Study Time Available: 12.0 hours
+sport: 1.6 hours
+physic: 2.4 hours
+math: 2.4 hours
+sof: 2.4 hours
+programmer: 3.2 hours
+
+====================
+Date: 2025-01-13
+Study Time Available: 12.0 hours
+sof: 2.4 hours
+sport: 1.6 hours
+math: 2.4 hours
+programmer: 3.2 hours
+physic: 2.4 hours
+
+====================
+Date: 2025-01-14
+Study Time Available: 12.0 hours
+programmer: 3.2 hours
+sof: 2.4 hours
+physic: 2.4 hours
+math: 2.4 hours
+sport: 1.6 hours
+
+====================
+Date: 2025-01-15
+Study Time Available: 12.0 hours
+programmer: 3.2 hours
+math: 2.4 hours
+sof: 2.4 hours
+physic: 2.4 hours
+sport: 1.6 hours
+
+====================
+Date: 2025-01-16
+Study Time Available: 12.0 hours
+sport: 1.6 hours
+math: 2.4 hours
+sof: 2.4 hours
+physic: 2.4 hours
+programmer: 3.2 hours
+
+====================
+Date: 2025-01-17
+Study Time Available: 12.0 hours
+physic: 2.4 hours
+sport: 1.6 hours
+programmer: 3.2 hours
+sof: 2.4 hours
+math: 2.4 hours
+
+====================
+Date: 2025-01-18
+Study Time Available: 12.0 hours
+programmer: 3.2 hours
+sport: 1.6 hours
+sof: 2.4 hours
+math: 2.4 hours
+physic: 2.4 hours
+
+====================
+Date: 2025-01-19
+Study Time Available: 12.0 hours
+programmer: 3.2 hours
+physic: 2.4 hours
+sof: 2.4 hours
+math: 2.4 hours
+sport: 1.6 hours
+
+====================
+Date: 2025-01-20
+Study Time Available: 12.0 hours
+sport: 1.6 hours
+programmer: 3.2 hours
+sof: 2.4 hours
+math: 2.4 hours
+physic: 2.4 hours
+
+====================
+Date: 2025-01-21
+Study Time Available: 12.0 hours
+sport: 1.6 hours
+programmer: 3.2 hours
+sof: 2.4 hours
+physic: 2.4 hours
+math: 2.4 hours
+
+====================
+Date: 2025-01-22
+Study Time Available: 12.0 hours
+programmer: 3.2 hours
+sof: 2.4 hours
+physic: 2.4 hours
+math: 2.4 hours
+sport: 1.6 hours
+
+====================
+Date: 2025-01-23
+Study Time Available: 12.0 hours
+programmer: 3.2 hours
+sport: 1.6 hours
+sof: 2.4 hours
+physic: 2.4 hours
+math: 2.4 hours
+
+====================
+Date: 2025-01-24
+Study Time Available: 12.0 hours
+math: 2.4 hours
+programmer: 3.2 hours
+sport: 1.6 hours
+sof: 2.4 hours
+physic: 2.4 hours
+
+====================
+Date: 2025-01-25
+Study Time Available: 12.0 hours
+sport: 1.6 hours
+programmer: 3.2 hours
+sof: 2.4 hours
+physic: 2.4 hours
+math: 2.4 hours
+
+====================
+Date: 2025-01-26
+Study Time Available: 12.0 hours
+sport: 1.6 hours
+programmer: 3.2 hours
+physic: 2.4 hours
+sof: 2.4 hours
+math: 2.4 hours
+
+====================
+Date: 2025-01-27
+Study Time Available: 12.0 hours
+math: 2.4 hours
+physic: 2.4 hours
+sport: 1.6 hours
+sof: 2.4 hours
+programmer: 3.2 hours
+
+====================
+Date: 2025-01-28
+Study Time Available: 12.0 hours
+math: 2.4 hours
+programmer: 3.2 hours
+sof: 2.4 hours
+sport: 1.6 hours
+physic: 2.4 hours
+
+====================
+Date: 2025-01-29
+Study Time Available: 12.0 hours
+physic: 2.4 hours
+programmer: 3.2 hours
+sof: 2.4 hours
+sport: 1.6 hours
+math: 2.4 hours
+
+====================
+Date: 2025-01-30
+Study Time Available: 12.0 hours
+math: 2.4 hours
+sport: 1.6 hours
+programmer: 3.2 hours
+physic: 2.4 hours
+sof: 2.4 hours
+
+====================
+Date: 2025-01-31
+Study Time Available: 12.0 hours
+programmer: 3.2 hours
+sof: 2.4 hours
+math: 2.4 hours
+sport: 1.6 hours
+physic: 2.4 hours
+
+====================
+Date: 2025-02-01
+Study Time Available: 12.0 hours
+sof: 2.4 hours
+physic: 2.4 hours
+sport: 1.6 hours
+programmer: 3.2 hours
+math: 2.4 hours
+
+====================
+Date: 2025-02-02
+Study Time Available: 12.0 hours
+sport: 1.6 hours
+sof: 2.4 hours
+programmer: 3.2 hours
+math: 2.4 hours
+physic: 2.4 hours
+
+====================
+Date: 2025-02-03
+Study Time Available: 12.0 hours
+programmer: 3.2 hours
+math: 2.4 hours
+sof: 2.4 hours
+physic: 2.4 hours
+sport: 1.6 hours
+
+====================
+Date: 2025-02-04
+Study Time Available: 12.0 hours
+sof: 2.4 hours
+physic: 2.4 hours
+sport: 1.6 hours
+programmer: 3.2 hours
+math: 2.4 hours
+
+====================
+Date: 2025-02-05
+Study Time Available: 12.0 hours
+programmer: 3.2 hours
+sport: 1.6 hours
+sof: 2.4 hours
+math: 2.4 hours
+physic: 2.4 hours
+
+====================
+Date: 2025-02-06
+Study Time Available: 12.0 hours
+programmer: 3.2 hours
+math: 2.4 hours
+sof: 2.4 hours
+sport: 1.6 hours
+physic: 2.4 hours
+
+====================
+Date: 2025-02-07
+Study Time Available: 12.0 hours
+physic: 2.4 hours
+sport: 1.6 hours
+math: 2.4 hours
+programmer: 3.2 hours
+sof: 2.4 hours
+
+====================
+Date: 2025-02-08
+Study Time Available: 12.0 hours
+programmer: 3.2 hours
+sof: 2.4 hours
+sport: 1.6 hours
+physic: 2.4 hours
+math: 2.4 hours
+
+====================
+Date: 2025-02-09
+Study Time Available: 12.0 hours
+sport: 1.6 hours
+sof: 2.4 hours
+programmer: 3.2 hours
+math: 2.4 hours
+physic: 2.4 hours
+
+====================
+Date: 2025-02-10
+Study Time Available: 12.0 hours
+sof: 2.4 hours
+programmer: 3.2 hours
+sport: 1.6 hours
+physic: 2.4 hours
+math: 2.4 hours
+
+====================
+Date: 2025-02-11
+Study Time Available: 12.0 hours
+sport: 1.6 hours
+math: 2.4 hours
+programmer: 3.2 hours
+physic: 2.4 hours
+sof: 2.4 hours
+
+====================
+Date: 2025-02-12
+Study Time Available: 12.0 hours
+physic: 2.4 hours
+sport: 1.6 hours
+math: 2.4 hours
+programmer: 3.2 hours
+sof: 2.4 hours
+
+====================
+Date: 2025-02-13
+Study Time Available: 12.0 hours
+programmer: 3.2 hours
+math: 2.4 hours
+physic: 2.4 hours
+sport: 1.6 hours
+sof: 2.4 hours
+
+====================
+Date: 2025-02-14
+Study Time Available: 12.0 hours
+math: 2.4 hours
+sport: 1.6 hours
+sof: 2.4 hours
+physic: 2.4 hours
+programmer: 3.2 hours
+
+====================
+Date: 2025-02-15
+Study Time Available: 12.0 hours
+programmer: 3.2 hours
+physic: 2.4 hours
+sport: 1.6 hours
+sof: 2.4 hours
+math: 2.4 hours
+
+====================
+Date: 2025-02-16
+Study Time Available: 12.0 hours
+programmer: 3.2 hours
+sof: 2.4 hours
+math: 2.4 hours
+physic: 2.4 hours
+sport: 1.6 hours
+
+====================
+Date: 2025-02-17
+Study Time Available: 12.0 hours
+sport: 1.6 hours
+physic: 2.4 hours
+programmer: 3.2 hours
+sof: 2.4 hours
+math: 2.4 hours
+
+====================
+Date: 2025-02-18
+Study Time Available: 12.0 hours
+sof: 2.4 hours
+physic: 2.4 hours
+programmer: 3.2 hours
+math: 2.4 hours
+sport: 1.6 hours
+
+====================
+Date: 2025-02-19
+Study Time Available: 12.0 hours
+programmer: 3.2 hours
+sport: 1.6 hours
+physic: 2.4 hours
+math: 2.4 hours
+sof: 2.4 hours
+
+====================
+Date: 2025-02-20
+Study Time Available: 12.0 hours
+sof: 2.4 hours
+physic: 2.4 hours
+programmer: 3.2 hours
+math: 2.4 hours
+sport: 1.6 hours
+
+====================
+Date: 2025-02-21
+Study Time Available: 12.0 hours
+programmer: 3.2 hours
+sof: 2.4 hours
+physic: 2.4 hours
+sport: 1.6 hours
+math: 2.4 hours
+
+====================
+Date: 2025-02-22
+Study Time Available: 12.0 hours
+physic: 2.4 hours
+programmer: 3.2 hours
+sport: 1.6 hours
+math: 2.4 hours
+sof: 2.4 hours
+
+====================
+Date: 2025-02-23
+Study Time Available: 12.0 hours
+physic: 2.4 hours
+math: 2.4 hours
+sof: 2.4 hours
+programmer: 3.2 hours
+sport: 1.6 hours
+
+====================
+Date: 2025-02-24
+Study Time Available: 12.0 hours
+sof: 2.4 hours
+sport: 1.6 hours
+physic: 2.4 hours
+programmer: 3.2 hours
+math: 2.4 hours
+
+====================
+Date: 2025-02-25
+Study Time Available: 12.0 hours
+sof: 2.4 hours
+physic: 2.4 hours
+sport: 1.6 hours
+math: 2.4 hours
+programmer: 3.2 hours
+
+====================
+Date: 2025-02-26
+Study Time Available: 12.0 hours
+math: 2.4 hours
+sport: 1.6 hours
+sof: 2.4 hours
+physic: 2.4 hours
+programmer: 3.2 hours
+
+====================
+Date: 2025-02-27
+Study Time Available: 12.0 hours
+physic: 2.4 hours
+sof: 2.4 hours
+sport: 1.6 hours
+programmer: 3.2 hours
+math: 2.4 hours
+
+====================
+Date: 2025-02-28
+Study Time Available: 12.0 hours
+sport: 1.6 hours
+programmer: 3.2 hours
+math: 2.4 hours
+physic: 2.4 hours
+sof: 2.4 hours
+
+====================
+Date: 2025-03-01
+Study Time Available: 12.0 hours
+physic: 2.4 hours
+programmer: 3.2 hours
+sof: 2.4 hours
+math: 2.4 hours
+sport: 1.6 hours
+
+====================
+Date: 2025-03-02
+Study Time Available: 12.0 hours
+math: 2.4 hours
+sport: 1.6 hours
+programmer: 3.2 hours
+sof: 2.4 hours
+physic: 2.4 hours
+
+====================
+Date: 2025-03-03
+Study Time Available: 12.0 hours
+sof: 2.4 hours
+physic: 2.4 hours
+programmer: 3.2 hours
+sport: 1.6 hours
+math: 2.4 hours
+
+====================
+Date: 2025-03-04
+Study Time Available: 12.0 hours
+physic: 2.4 hours
+programmer: 3.2 hours
+sof: 2.4 hours
+sport: 1.6 hours
+math: 2.4 hours
+
+====================
+Date: 2025-03-05
+Study Time Available: 12.0 hours
+sport: 1.6 hours
+physic: 2.4 hours
+programmer: 3.2 hours
+sof: 2.4 hours
+math: 2.4 hours
+
+====================
+Date: 2025-03-06
+Study Time Available: 12.0 hours
+math: 2.4 hours
+programmer: 3.2 hours
+sport: 1.6 hours
+physic: 2.4 hours
+sof: 2.4 hours
+
+====================
+Date: 2025-03-07
+Study Time Available: 12.0 hours
+programmer: 3.2 hours
+physic: 2.4 hours
+sof: 2.4 hours
+sport: 1.6 hours
+math: 2.4 hours
+
+====================
+Date: 2025-03-08
+Study Time Available: 12.0 hours
+physic: 2.4 hours
+sof: 2.4 hours
+programmer: 3.2 hours
+math: 2.4 hours
+sport: 1.6 hours
+
+====================
+Date: 2025-03-09
+Study Time Available: 12.0 hours
+sof: 2.4 hours
+math: 2.4 hours
+programmer: 3.2 hours
+physic: 2.4 hours
+sport: 1.6 hours
+
+====================
+Date: 2025-03-10
+Study Time Available: 12.0 hours
+math: 2.4 hours
+physic: 2.4 hours
+programmer: 3.2 hours
+sport: 1.6 hours
+sof: 2.4 hours
+
+====================
+Date: 2025-03-11
+Study Time Available: 12.0 hours
+physic: 2.4 hours
+math: 2.4 hours
+sof: 2.4 hours
+programmer: 3.2 hours
+sport: 1.6 hours
+
+====================
+Date: 2025-03-12
+Study Time Available: 12.0 hours
+physic: 2.4 hours
+programmer: 3.2 hours
+sof: 2.4 hours
+sport: 1.6 hours
+math: 2.4 hours
+
+====================
+Date: 2025-03-13
+Study Time Available: 12.0 hours
+programmer: 3.2 hours
+physic: 2.4 hours
+sport: 1.6 hours
+sof: 2.4 hours
+math: 2.4 hours
+
+====================
+Date: 2025-03-14
+Study Time Available: 12.0 hours
+programmer: 3.2 hours
+physic: 2.4 hours
+sof: 2.4 hours
+sport: 1.6 hours
+math: 2.4 hours
+
+====================
+Date: 2025-03-15
+Study Time Available: 12.0 hours
+physic: 2.4 hours
+sport: 1.6 hours
+math: 2.4 hours
+programmer: 3.2 hours
+sof: 2.4 hours
+
+====================
+Date: 2025-03-16
+Study Time Available: 12.0 hours
+math: 2.4 hours
+sof: 2.4 hours
+programmer: 3.2 hours
+sport: 1.6 hours
+physic: 2.4 hours
+
+====================
+Date: 2025-03-17
+Study Time Available: 12.0 hours
+programmer: 3.2 hours
+sof: 2.4 hours
+sport: 1.6 hours
+math: 2.4 hours
+physic: 2.4 hours
+
+====================
+Date: 2025-03-18
+Study Time Available: 12.0 hours
+sof: 2.4 hours
+programmer: 3.2 hours
+physic: 2.4 hours
+sport: 1.6 hours
+math: 2.4 hours
+
+====================
+Date: 2025-03-19
+Study Time Available: 12.0 hours
+sport: 1.6 hours
+math: 2.4 hours
+physic: 2.4 hours
+sof: 2.4 hours
+programmer: 3.2 hours
+
+====================
+Date: 2025-03-20
+Study Time Available: 12.0 hours
+physic: 2.4 hours
+sport: 1.6 hours
+sof: 2.4 hours
+math: 2.4 hours
+programmer: 3.2 hours
+
+====================
+Date: 2025-03-21
+Study Time Available: 12.0 hours
+sport: 1.6 hours
+programmer: 3.2 hours
+physic: 2.4 hours
+sof: 2.4 hours
+math: 2.4 hours
+
+====================
+Date: 2025-03-22
+Study Time Available: 12.0 hours
+sport: 1.6 hours
+physic: 2.4 hours
+sof: 2.4 hours
+programmer: 3.2 hours
+math: 2.4 hours
+
+====================
+Date: 2025-03-23
+Study Time Available: 12.0 hours
+math: 2.4 hours
+sport: 1.6 hours
+programmer: 3.2 hours
+sof: 2.4 hours
+physic: 2.4 hours
+
+====================
+Date: 2025-03-24
+Study Time Available: 12.0 hours
+sport: 1.6 hours
+sof: 2.4 hours
+programmer: 3.2 hours
+math: 2.4 hours
+physic: 2.4 hours
+
+====================
+Date: 2025-03-25
+Study Time Available: 12.0 hours
+physic: 2.4 hours
+math: 2.4 hours
+sport: 1.6 hours
+sof: 2.4 hours
+programmer: 3.2 hours
+
+====================
+Date: 2025-03-26
+Study Time Available: 12.0 hours
+programmer: 3.2 hours
+physic: 2.4 hours
+math: 2.4 hours
+sport: 1.6 hours
+sof: 2.4 hours
+
+====================
+Date: 2025-03-27
+Study Time Available: 12.0 hours
+sport: 1.6 hours
+programmer: 3.2 hours
+physic: 2.4 hours
+sof: 2.4 hours
+math: 2.4 hours
+
+====================
+Date: 2025-03-28
+Study Time Available: 12.0 hours
+sport: 1.6 hours
+math: 2.4 hours
+physic: 2.4 hours
+programmer: 3.2 hours
+sof: 2.4 hours
+
+====================
+Date: 2025-03-29
+Study Time Available: 12.0 hours
+programmer: 3.2 hours
+physic: 2.4 hours
+math: 2.4 hours
+sport: 1.6 hours
+sof: 2.4 hours
+
+====================
+Date: 2025-03-30
+Study Time Available: 12.0 hours
+physic: 2.4 hours
+sport: 1.6 hours
+sof: 2.4 hours
+programmer: 3.2 hours
+math: 2.4 hours
+
+====================
+Date: 2025-03-31
+Study Time Available: 12.0 hours
+physic: 2.4 hours
+programmer: 3.2 hours
+sof: 2.4 hours
+sport: 1.6 hours
+math: 2.4 hours
+
+====================
+Date: 2025-04-01
+Study Time Available: 12.0 hours
+math: 2.4 hours
+programmer: 3.2 hours
+physic: 2.4 hours
+sport: 1.6 hours
+sof: 2.4 hours
+
+====================
+Date: 2025-04-02
+Study Time Available: 12.0 hours
+sport: 1.6 hours
+physic: 2.4 hours
+programmer: 3.2 hours
+math: 2.4 hours
+sof: 2.4 hours
+
+====================
+Date: 2025-04-03
+Study Time Available: 12.0 hours
+sport: 1.6 hours
+sof: 2.4 hours
+programmer: 3.2 hours
+math: 2.4 hours
+physic: 2.4 hours
+
+====================
+Date: 2025-04-04
+Study Time Available: 12.0 hours
+sof: 2.4 hours
+programmer: 3.2 hours
+physic: 2.4 hours
+math: 2.4 hours
+sport: 1.6 hours
+
+====================
+Date: 2025-04-05
+Study Time Available: 12.0 hours
+programmer: 3.2 hours
+math: 2.4 hours
+sport: 1.6 hours
+sof: 2.4 hours
+physic: 2.4 hours
+
+====================
+Date: 2025-04-06
+Study Time Available: 12.0 hours
+programmer: 3.2 hours
+sport: 1.6 hours
+math: 2.4 hours
+sof: 2.4 hours
+physic: 2.4 hours
+
+====================
+Date: 2025-04-07
+Study Time Available: 12.0 hours
+sport: 1.6 hours
+sof: 2.4 hours
+programmer: 3.2 hours
+physic: 2.4 hours
+math: 2.4 hours
+
+====================
+Date: 2025-04-08
+Study Time Available: 12.0 hours
+physic: 2.4 hours
+sport: 1.6 hours
+sof: 2.4 hours
+programmer: 3.2 hours
+math: 2.4 hours
+
+====================
+Date: 2025-04-09
+Study Time Available: 12.0 hours
+physic: 2.4 hours
+sport: 1.6 hours
+programmer: 3.2 hours
+sof: 2.4 hours
+math: 2.4 hours
+
+====================
+Date: 2025-04-10
+Study Time Available: 12.0 hours
+programmer: 3.2 hours
+sport: 1.6 hours
+math: 2.4 hours
+sof: 2.4 hours
+physic: 2.4 hours
+
+====================
+Date: 2025-04-11
+Study Time Available: 12.0 hours
+physic: 2.4 hours
+sof: 2.4 hours
+sport: 1.6 hours
+math: 2.4 hours
+programmer: 3.2 hours
+
+====================
+Date: 2025-04-12
+Study Time Available: 12.0 hours
+sof: 2.4 hours
+physic: 2.4 hours
+math: 2.4 hours
+programmer: 3.2 hours
+sport: 1.6 hours
+
+====================
+Date: 2025-04-13
+Study Time Available: 12.0 hours
+programmer: 3.2 hours
+math: 2.4 hours
+physic: 2.4 hours
+sof: 2.4 hours
+sport: 1.6 hours
+
+====================
+Date: 2025-04-14
+Study Time Available: 12.0 hours
+programmer: 3.2 hours
+math: 2.4 hours
+sport: 1.6 hours
+sof: 2.4 hours
+physic: 2.4 hours
+
+====================
+Date: 2025-04-15
+Study Time Available: 12.0 hours
+math: 2.4 hours
+sport: 1.6 hours
+programmer: 3.2 hours
+physic: 2.4 hours
+sof: 2.4 hours
+
+====================
+Date: 2025-04-16
+Study Time Available: 12.0 hours
+physic: 2.4 hours
+math: 2.4 hours
+programmer: 3.2 hours
+sof: 2.4 hours
+sport: 1.6 hours
+
+====================
+Date: 2025-04-17
+Study Time Available: 12.0 hours
+programmer: 3.2 hours
+math: 2.4 hours
+physic: 2.4 hours
+sof: 2.4 hours
+sport: 1.6 hours
+
+====================
+Date: 2025-04-18
+Study Time Available: 12.0 hours
+math: 2.4 hours
+sport: 1.6 hours
+physic: 2.4 hours
+sof: 2.4 hours
+programmer: 3.2 hours
+
+====================
+Date: 2025-04-19
+Study Time Available: 12.0 hours
+programmer: 3.2 hours
+math: 2.4 hours
+sof: 2.4 hours
+physic: 2.4 hours
+sport: 1.6 hours
+
+====================
+Date: 2025-04-20
+Study Time Available: 12.0 hours
+sport: 1.6 hours
+physic: 2.4 hours
+sof: 2.4 hours
+math: 2.4 hours
+programmer: 3.2 hours
+
+====================
+Date: 2025-04-21
+Study Time Available: 12.0 hours
+programmer: 3.2 hours
+physic: 2.4 hours
+sof: 2.4 hours
+math: 2.4 hours
+sport: 1.6 hours
+
+====================
+Date: 2025-04-22
+Study Time Available: 12.0 hours
+sport: 1.6 hours
+math: 2.4 hours
+sof: 2.4 hours
+programmer: 3.2 hours
+physic: 2.4 hours
+
+====================
+Date: 2025-04-23
+Study Time Available: 12.0 hours
+sof: 2.4 hours
+programmer: 3.2 hours
+math: 2.4 hours
+sport: 1.6 hours
+physic: 2.4 hours
+
+====================
+Date: 2025-04-24
+Study Time Available: 12.0 hours
+programmer: 3.2 hours
+sof: 2.4 hours
+physic: 2.4 hours
+math: 2.4 hours
+sport: 1.6 hours
+
+====================
+Date: 2025-04-25
+Study Time Available: 12.0 hours
+sof: 2.4 hours
+math: 2.4 hours
+programmer: 3.2 hours
+physic: 2.4 hours
+sport: 1.6 hours
+
+====================
+Date: 2025-04-26
+Study Time Available: 12.0 hours
+programmer: 3.2 hours
+sof: 2.4 hours
+sport: 1.6 hours
+math: 2.4 hours
+physic: 2.4 hours
+
+====================
+Date: 2025-04-27
+Study Time Available: 12.0 hours
+sof: 2.4 hours
+math: 2.4 hours
+physic: 2.4 hours
+programmer: 3.2 hours
+sport: 1.6 hours
+
+====================
+Date: 2025-04-28
+Study Time Available: 12.0 hours
+programmer: 3.2 hours
+sport: 1.6 hours
+physic: 2.4 hours
+math: 2.4 hours
+sof: 2.4 hours
+
+====================
+Date: 2025-04-29
+Study Time Available: 12.0 hours
+sof: 2.4 hours
+math: 2.4 hours
+programmer: 3.2 hours
+sport: 1.6 hours
+physic: 2.4 hours
+
+====================
+Date: 2025-04-30
+Study Time Available: 12.0 hours
+physic: 2.4 hours
+sof: 2.4 hours
+math: 2.4 hours
+programmer: 3.2 hours
+sport: 1.6 hours
+
+====================
+Date: 2025-05-01
+Study Time Available: 12.0 hours
+sport: 1.6 hours
+sof: 2.4 hours
+physic: 2.4 hours
+math: 2.4 hours
+programmer: 3.2 hours
+
+====================
+Date: 2025-05-02
+Study Time Available: 12.0 hours
+physic: 2.4 hours
+sof: 2.4 hours
+math: 2.4 hours
+programmer: 3.2 hours
+sport: 1.6 hours
+
+====================
+Date: 2025-05-03
+Study Time Available: 12.0 hours
+sof: 2.4 hours
+sport: 1.6 hours
+math: 2.4 hours
+programmer: 3.2 hours
+physic: 2.4 hours
+
+====================
+Date: 2025-05-04
+Study Time Available: 12.0 hours
+programmer: 3.2 hours
+sport: 1.6 hours
+sof: 2.4 hours
+physic: 2.4 hours
+math: 2.4 hours
+
+====================
+Date: 2025-05-05
+Study Time Available: 12.0 hours
+math: 2.4 hours
+physic: 2.4 hours
+programmer: 3.2 hours
+sof: 2.4 hours
+sport: 1.6 hours
+
+====================
+Date: 2025-05-06
+Study Time Available: 12.0 hours
+sof: 2.4 hours
+sport: 1.6 hours
+math: 2.4 hours
+programmer: 3.2 hours
+physic: 2.4 hours
+
+====================
+Date: 2025-05-07
+Study Time Available: 12.0 hours
+physic: 2.4 hours
+sport: 1.6 hours
+math: 2.4 hours
+programmer: 3.2 hours
+sof: 2.4 hours
+
+====================
+Date: 2025-05-08
+Study Time Available: 12.0 hours
+physic: 2.4 hours
+sof: 2.4 hours
+math: 2.4 hours
+programmer: 3.2 hours
+sport: 1.6 hours
+
+====================
+Date: 2025-05-09
+Study Time Available: 12.0 hours
+sof: 2.4 hours
+sport: 1.6 hours
+physic: 2.4 hours
+programmer: 3.2 hours
+math: 2.4 hours
+
+====================
+Date: 2025-05-10
+Study Time Available: 12.0 hours
+physic: 2.4 hours
+sof: 2.4 hours
+sport: 1.6 hours
+math: 2.4 hours
+programmer: 3.2 hours
+
+====================
+Date: 2025-05-11
+Study Time Available: 12.0 hours
+programmer: 3.2 hours
+sof: 2.4 hours
+math: 2.4 hours
+physic: 2.4 hours
+sport: 1.6 hours
+
+====================

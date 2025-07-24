@@ -1,0 +1,722 @@
+### Study Plan ###
+
+Date: 2025-07-17
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-07-18
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-07-19
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-07-20
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-07-21
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-07-22
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-07-23
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-07-24
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-07-25
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-07-26
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-07-27
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-07-28
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-07-29
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-07-30
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-07-31
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-08-01
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-08-02
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-08-03
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-08-04
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-08-05
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-08-06
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-08-07
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-08-08
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-08-09
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-08-10
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-08-11
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-08-12
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-08-13
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-08-14
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-08-15
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-08-16
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-08-17
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-08-18
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-08-19
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-08-20
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-08-21
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-08-22
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-08-23
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-08-24
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-08-25
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-08-26
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-08-27
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-08-28
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-08-29
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-08-30
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-08-31
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-09-01
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-09-02
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-09-03
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-09-04
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-09-05
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-09-06
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-09-07
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-09-08
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-09-09
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-09-10
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-09-11
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-09-12
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-09-13
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-09-14
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-09-15
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-09-16
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-09-17
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-09-18
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-09-19
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-09-20
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-09-21
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-09-22
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-09-23
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-09-24
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-09-25
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-09-26
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-09-27
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-09-28
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-09-29
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-09-30
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-10-01
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-10-02
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-10-03
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-10-04
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-10-05
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-10-06
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-10-07
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-10-08
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-10-09
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-10-10
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-10-11
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-10-12
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-10-13
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-10-14
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-10-15
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-10-16
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-10-17
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-10-18
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-10-19
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-10-20
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-10-21
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-10-22
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-10-23
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-10-24
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-10-25
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-10-26
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-10-27
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-10-28
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-10-29
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-10-30
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-10-31
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-11-01
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-11-02
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-11-03
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-11-04
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-11-05
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-11-06
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-11-07
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-11-08
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-11-09
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-11-10
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-11-11
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
+Date: 2025-11-12
+Study Time Available: 10.0 hours
+pyth: 5.0 hours
+math: 5.0 hours
+
+====================
+Date: 2025-11-13
+Study Time Available: 10.0 hours
+math: 5.0 hours
+pyth: 5.0 hours
+
+====================
